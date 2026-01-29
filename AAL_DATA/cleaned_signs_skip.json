@@ -1,0 +1,2154 @@
+[
+    {
+        "uuid": "93bdfb11-939c-475e-997f-54e1c262ce16",
+        "longitude": 9.977935713083783,
+        "latitude": 57.01245356657664,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "57e60780-db5b-4d9c-931b-d99396f1fa6b",
+        "longitude": 9.96789412125988,
+        "latitude": 57.020401988230965,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "680e9e8e-6eb1-454f-b11b-d76006892e41",
+        "longitude": 9.978081052372485,
+        "latitude": 57.012466181654155,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "567588a3-ccfb-4a0c-a11a-83960499f7b4",
+        "longitude": 9.994417065551605,
+        "latitude": 56.99637033143858,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "65612f06-6edc-4fd8-80a0-3cc19acb6ec6",
+        "longitude": 9.99475012627302,
+        "latitude": 57.01864363414553,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b0095232-08ca-4db0-b996-946b6fe81cb1",
+        "longitude": 9.994346185945469,
+        "latitude": 57.002605062620745,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b1d51bd6-f5b1-4ee5-b1c9-a360f6933232",
+        "longitude": 9.994664825499058,
+        "latitude": 57.01088961336788,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "17e33925-0f6f-4a8e-9fa0-19a4c8b540d9",
+        "longitude": 9.994327224560603,
+        "latitude": 57.019066375512494,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "cdfcf989-05b2-47fb-8435-79dddb67b708",
+        "longitude": 9.994417065551605,
+        "latitude": 56.99637033143858,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "db2fddb0-b0a4-4864-88da-b4601d373ae6",
+        "longitude": 9.994757858098737,
+        "latitude": 57.01853908000682,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "39db47e2-7d3b-4232-9bd2-93d9a0e80717",
+        "longitude": 9.994622348520334,
+        "latitude": 57.01201891720124,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "eadb18ef-8969-4707-86a3-d714a8133848",
+        "longitude": 9.975256996921217,
+        "latitude": 57.01263132610362,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8d3645a9-b4aa-4b26-988e-a023d98a8254",
+        "longitude": 9.994745962321758,
+        "latitude": 57.011003159929466,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "575be120-6ffc-4211-a6bb-56ec77a1aabe",
+        "longitude": 9.957528665616874,
+        "latitude": 57.02887733050118,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9a06b730-a77f-4027-b466-e06431fc9f35",
+        "longitude": 9.994127117700346,
+        "latitude": 57.01913027543002,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "af909d74-32d9-4b43-9496-106c90aafaea",
+        "longitude": 9.994622348520336,
+        "latitude": 57.01201889330876,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c6242777-7f3d-4ed1-9c23-d99929f4c3cb",
+        "longitude": 9.9949461146049,
+        "latitude": 57.005454477610904,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7df584fc-2d61-40b9-9bbf-38a9edfe5602",
+        "longitude": 9.974636002183631,
+        "latitude": 57.01263772637504,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "4ba62259-9d5a-4004-9674-68f0c73be03b",
+        "longitude": 9.968097856335241,
+        "latitude": 57.01847464710872,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2bf0565f-a179-49fa-9f0d-499426526a8a",
+        "longitude": 9.995009154081345,
+        "latitude": 57.010906408058005,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "168a477f-046e-4606-a38a-38947deaa61d",
+        "longitude": 9.957528665616874,
+        "latitude": 57.02887733050118,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "379cab15-97b2-4623-b921-957745efb545",
+        "longitude": 9.994079060540999,
+        "latitude": 57.01895530089786,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5ab6f3c4-8913-4146-9838-0258cce7d54c",
+        "longitude": 9.994821224624319,
+        "latitude": 57.01139204503731,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b5ff1c60-b374-4e38-b54f-0cea70bfed57",
+        "longitude": 9.974067217362292,
+        "latitude": 57.012645532264216,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "39cc26f0-d6a1-43a5-9ce1-9d7981f8b56f",
+        "longitude": 9.96050606576326,
+        "latitude": 57.025981168450464,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0a7f5ee2-6fab-446b-8b07-e46a9072613d",
+        "longitude": 9.994152979851263,
+        "latitude": 57.01228211578056,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "427c43e0-104e-45b3-b7ff-196cd1bbaa1d",
+        "longitude": 9.994831122457981,
+        "latitude": 57.010834665470036,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0dc82d7c-79a3-46fe-bf76-94588baa1619",
+        "longitude": 9.99482113685905,
+        "latitude": 57.01139204503733,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7939b2f1-c177-4e41-91ce-cb3cb04f7c96",
+        "longitude": 9.99380562074129,
+        "latitude": 57.01878980041007,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b3ca7811-d99b-4377-a002-7d45016ac201",
+        "longitude": 9.99464332442009,
+        "latitude": 57.01138588067423,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9dff9dc8-da7f-4873-bba7-21fc6cdf7db6",
+        "longitude": 9.994256374530217,
+        "latitude": 57.002317860849786,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "59abe38c-973a-4665-95dc-36324250ea5a",
+        "longitude": 9.958248166403855,
+        "latitude": 57.02838565238552,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "24b5667c-4a0e-44a4-9bc8-53ad17aa1cc4",
+        "longitude": 9.968615882098675,
+        "latitude": 57.017680256435156,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c29f1cfd-44e6-4b33-9fb8-ccc014d1b91d",
+        "longitude": 9.972727384954164,
+        "latitude": 57.012663517831115,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "40f7b5c2-3ed0-4e96-bb1e-20612f350a33",
+        "longitude": 9.994643324420087,
+        "latitude": 57.011385832888465,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "91f89945-15a1-4955-a6c5-5be382ea56a3",
+        "longitude": 9.994189724335268,
+        "latitude": 57.00259827033409,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "af19c3a0-7a14-4867-9486-b2c54c83abe8",
+        "longitude": 9.994770584062984,
+        "latitude": 57.01118905058966,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "22aa517d-cedd-4a9e-94f3-009fea4f7209",
+        "longitude": 9.99380562074129,
+        "latitude": 57.01878980041009,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8af2b85c-b6d6-4749-ba92-226d9e5c98e7",
+        "longitude": 9.968272725327209,
+        "latitude": 57.01934114867882,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1ebcb967-2718-4558-8cb8-e9a87379d930",
+        "longitude": 9.9931746354323,
+        "latitude": 56.998533773790264,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "55c9a057-a253-441d-8e90-a1c9322d98cc",
+        "longitude": 9.968260824680328,
+        "latitude": 57.01763864237868,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2224d717-d718-4f95-9f62-6aacedbc8a5d",
+        "longitude": 9.958248166403854,
+        "latitude": 57.02838565238551,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5aff6dc3-8f55-4f4b-8387-63d339818a3a",
+        "longitude": 9.98489193303234,
+        "latitude": 56.99311232358962,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3d80c010-8f5c-488a-a466-effcecebfffd",
+        "longitude": 9.97596836676999,
+        "latitude": 57.006584797891996,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6df4f12d-7249-4f75-9836-81b71bd43a97",
+        "longitude": 9.993963185198181,
+        "latitude": 57.01874176782769,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5a57bc69-2b2c-4b1b-9b7a-e1e56ce58618",
+        "longitude": 9.99417026960964,
+        "latitude": 57.01093272550935,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "51e4e40e-3aae-421a-b2ae-2e01736ca793",
+        "longitude": 9.99475012627302,
+        "latitude": 57.01864363414552,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "42d93793-9b53-463c-b655-ff89a5309999",
+        "longitude": 9.993960745632648,
+        "latitude": 57.00822609860852,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "fb342c2e-771e-43d8-8571-b45769d5c6c0",
+        "longitude": 9.993363222035207,
+        "latitude": 56.99828924737746,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ea34fee5-68ce-4013-bee9-5dc54ccc078d",
+        "longitude": 9.993963185198181,
+        "latitude": 57.01874176782771,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "4a7b4f94-0652-414f-8a43-35e7c8e786a5",
+        "longitude": 9.984630190877713,
+        "latitude": 56.99314371963497,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "314f6063-6be3-4adc-9ee9-b54e893fba3a",
+        "longitude": 9.984630190877715,
+        "latitude": 56.99314371963497,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "32c3b1e0-14d6-4e89-bcf5-94175d6e612b",
+        "longitude": 9.993930627929458,
+        "latitude": 57.00495057780155,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "f295af56-b80c-4611-8f59-dc7ff6a11899",
+        "longitude": 9.993363222035207,
+        "latitude": 56.99828924737745,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "363cbc09-0bd6-43b6-befd-f4d7cb193970",
+        "longitude": 9.994047341430253,
+        "latitude": 57.004812161726285,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "efa1883d-a83b-4e7e-b539-dc21590a41a4",
+        "longitude": 9.968134425580502,
+        "latitude": 57.01766163962616,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "04206101-b6c7-4db5-83c6-f8fd8dbb3577",
+        "longitude": 9.994925022820174,
+        "latitude": 57.01864492073676,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e8b40daf-d892-4148-b524-1b10341380a5",
+        "longitude": 9.994265663350202,
+        "latitude": 57.00502466639113,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "f7e8c996-dfdb-47a6-81a0-4d5352aae1d5",
+        "longitude": 9.994100144842028,
+        "latitude": 57.00454437446399,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "48c2893a-de3c-4bc8-9442-e700c3cc5b98",
+        "longitude": 9.994255178836584,
+        "latitude": 57.002242974975616,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2dee814a-3507-47a2-a19e-0a54de863a19",
+        "longitude": 9.994247435920284,
+        "latitude": 57.00522811619425,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3528a5e4-c160-4e5a-9a45-e6a3a94ab226",
+        "longitude": 9.965563299469766,
+        "latitude": 57.02151067022369,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "56b65d30-6c1e-4dc6-8770-b40304562e7e",
+        "longitude": 9.994100144842028,
+        "latitude": 57.004494728209195,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "df4bebfd-28dc-4ae1-a4f2-eecf327c89be",
+        "longitude": 9.96810257434845,
+        "latitude": 57.01759848842039,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5fe840c9-32f7-48b5-aa96-11e199183a39",
+        "longitude": 9.994735829015688,
+        "latitude": 57.010651931876374,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "30eb2651-9523-4d88-9675-e1b39b2b420a",
+        "longitude": 9.994925022820176,
+        "latitude": 57.01864492073676,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "fa01e61f-ed22-4d8c-a183-dae3a7b2c274",
+        "longitude": 9.966524429619312,
+        "latitude": 57.01357484194423,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2bbda1a6-1945-48bc-beda-79e4d6036715",
+        "longitude": 9.994330849963246,
+        "latitude": 57.00298787639631,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "dfe0d594-93db-4e94-ba0a-f8f91dd68d0a",
+        "longitude": 9.994540438055992,
+        "latitude": 57.0103154859764,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5715b75c-51ac-41d2-8891-6a916267c875",
+        "longitude": 9.966424182057382,
+        "latitude": 57.01346842223073,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "f49e2475-2c1a-4c6f-83f3-f2ab855ae00f",
+        "longitude": 9.967838041484356,
+        "latitude": 57.01540930199767,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "58d494c6-fc5b-4ed8-b7f8-b9473fd07bc0",
+        "longitude": 9.993580986664442,
+        "latitude": 56.99765118818342,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "d67b2e28-4c9d-4bfb-badd-9864493d49c4",
+        "longitude": 9.994189724335268,
+        "latitude": 57.002598270334076,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b2b7a7f1-8197-43fe-b6cf-a8759d93e14f",
+        "longitude": 9.968261830508707,
+        "latitude": 57.016870964193245,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a46c30e3-9c34-4d39-a148-3b931b8f8681",
+        "longitude": 9.993203253207414,
+        "latitude": 56.99793609344139,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6abfaf62-a4e2-420a-9a4d-95419e1af4a2",
+        "longitude": 9.966864064335823,
+        "latitude": 57.01343264469433,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a5a8a90e-ade0-4479-868d-98c7f75d5bbb",
+        "longitude": 9.994843868064251,
+        "latitude": 57.01680570552204,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3170697d-baf1-40f3-a5ee-828974416a6a",
+        "longitude": 9.970601020307194,
+        "latitude": 57.01275144290263,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5574c2e5-a7ae-4461-9388-612592a237fe",
+        "longitude": 9.993736892058818,
+        "latitude": 56.99785621173135,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3fcacb85-3c26-4728-8447-58f92903f5df",
+        "longitude": 9.96678628027439,
+        "latitude": 57.013360176823845,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9ca6c1a0-b7a3-4103-890d-e09824638a7a",
+        "longitude": 9.970006601269061,
+        "latitude": 57.012815804252696,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1e84d18d-d500-4d4c-a204-244d78ecfa83",
+        "longitude": 9.993091809960115,
+        "latitude": 57.00530020024406,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "531ddc80-ae01-41f2-a9ff-fe58110fcf45",
+        "longitude": 9.984470222482454,
+        "latitude": 56.99255082463714,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a691ef09-6d0d-4bf5-a826-dc5c1018c65e",
+        "longitude": 9.993006025197813,
+        "latitude": 56.99772425751727,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "741be2f2-2d7c-4f53-903c-c70f565e5127",
+        "longitude": 9.966533817350864,
+        "latitude": 57.01343556531086,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "38fa7134-f332-472f-88dc-e628e5afe301",
+        "longitude": 9.994473937447156,
+        "latitude": 57.010863339669285,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3c4c67f1-9d80-464f-b921-56a2ecd2a464",
+        "longitude": 9.994634372362459,
+        "latitude": 57.011069011920384,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8fb90785-1f34-495d-854c-ca3f4514e64e",
+        "longitude": 9.994255178836584,
+        "latitude": 57.00224297497561,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8831fac4-68bf-4760-bbd9-922db24b537c",
+        "longitude": 9.971616063793565,
+        "latitude": 57.01267526620019,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "4a6b693b-a232-44f3-afee-4ab67fda32f9",
+        "longitude": 9.994650760050712,
+        "latitude": 57.01818095616883,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e1392697-795e-4f0e-a6bd-9a43749dd77b",
+        "longitude": 9.966357462108135,
+        "latitude": 57.013405628980784,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "186b11fa-356e-4604-8ed6-adf12b0d7073",
+        "longitude": 9.994761105413726,
+        "latitude": 57.010727625943936,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0e245f5b-fa5b-43f6-b5fb-b622e04e430c",
+        "longitude": 9.980090477097757,
+        "latitude": 56.988061437781845,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e8ad6bcb-3385-4e76-af66-3202c222b3ab",
+        "longitude": 9.994476043813657,
+        "latitude": 57.010926800001904,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "37450cf6-de4f-4a73-a991-559349595ee4",
+        "longitude": 9.96763777035537,
+        "latitude": 57.020491423155136,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a039a32c-3006-4c33-bd2f-0bc6c88e2971",
+        "longitude": 9.993376649227837,
+        "latitude": 56.99777054381088,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7d517931-844b-4b7a-b72f-f33b4d2dc0df",
+        "longitude": 9.99465243630974,
+        "latitude": 57.01897128460798,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a2213239-2e38-4589-b6c0-f7d7d8c3e469",
+        "longitude": 9.97800663113594,
+        "latitude": 57.01270357862413,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "af02b4da-4e5b-43e2-abd5-dda5d1ceeea9",
+        "longitude": 9.994906444702435,
+        "latitude": 57.010742153070595,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "945517f1-9949-4b25-a308-4963b7c68f5b",
+        "longitude": 9.980089352626997,
+        "latitude": 56.988062050409006,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "d58efaf6-425c-455b-925b-813ef16fbfad",
+        "longitude": 9.966418482363222,
+        "latitude": 57.01363836505857,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "33a4eef4-ad0b-42b0-a092-bd54e5fe68a8",
+        "longitude": 9.994796562583186,
+        "latitude": 57.01108965554077,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "d163741d-10fd-406a-aa6a-45033a6b0c43",
+        "longitude": 9.993448475076137,
+        "latitude": 56.997628952278276,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "926423d7-905b-43a0-a9c5-d487e8929cb4",
+        "longitude": 9.994828120679182,
+        "latitude": 57.01901545715887,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2509731d-9479-4fa9-ae46-08f377291e29",
+        "longitude": 9.97961033932615,
+        "latitude": 56.98782325066044,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "01a6f269-4a2d-4e77-bcf1-26c0a4be338a",
+        "longitude": 9.967894121259882,
+        "latitude": 57.02040270168842,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2c655d75-6836-4456-96dd-89679512a698",
+        "longitude": 9.960222669803393,
+        "latitude": 57.02615717516292,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "fac7b48f-93c6-4075-97d9-c8aeea42a210",
+        "longitude": 9.994222444196769,
+        "latitude": 57.01893428674425,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "32c76c66-bf6f-4642-a315-86bb676c2583",
+        "longitude": 9.977989776490688,
+        "latitude": 57.01226204623783,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7bea2440-3cc7-42d9-81d7-4a13c98add40",
+        "longitude": 9.977748734119542,
+        "latitude": 56.98651899851686,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7372afa9-e604-44d0-b42a-dbd40a56fb07",
+        "longitude": 9.994696773470132,
+        "latitude": 57.01696662417444,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "835ab56e-b8fa-4df8-ade9-6afc31fe3cac",
+        "longitude": 9.993992281640132,
+        "latitude": 57.00854963963068,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "02adbe19-453c-4a59-a955-10d2da0a775e",
+        "longitude": 9.995078234561788,
+        "latitude": 56.99782557287404,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "287a2abb-8916-4764-9bfc-8bf42461b5e6",
+        "longitude": 9.994708709546977,
+        "latitude": 57.016095896885005,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "99126249-f7e2-4e49-b913-5719ca557bc6",
+        "longitude": 9.994108482858872,
+        "latitude": 57.00838467022676,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8920a7c6-7437-4bd9-8ddc-1e4bda4aa511",
+        "longitude": 9.99413105681177,
+        "latitude": 57.01898231907791,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "269e53e7-3232-4403-a8e2-2402ad7331aa",
+        "longitude": 9.977744498527573,
+        "latitude": 56.98651822928202,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e57aca6b-8367-45c1-b208-7542bf89b78a",
+        "longitude": 9.965555146336555,
+        "latitude": 57.0135763022469,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "58f3e61d-1b8c-48af-97c8-10fbe117ae78",
+        "longitude": 9.994757858098737,
+        "latitude": 57.01853908000682,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8a3aae74-1ce1-4108-bce3-403d9d32c0f6",
+        "longitude": 9.968082572598055,
+        "latitude": 57.019875739527336,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "654a29e6-3060-4c36-9007-96d4ce84929f",
+        "longitude": 9.968327544629576,
+        "latitude": 57.01741250202072,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1534adc7-2762-4ac0-9e52-512eff9dbf50",
+        "longitude": 9.994708709546977,
+        "latitude": 57.016095896885005,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ac54441a-ca83-4625-83f8-ca14ff5c8ada",
+        "longitude": 9.97688077390194,
+        "latitude": 57.00756375017954,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "da93bea3-7171-4425-87eb-540dadc82a22",
+        "longitude": 9.977252281123757,
+        "latitude": 56.98621373928864,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "92a71097-8ac7-4503-ae35-4a5dda269435",
+        "longitude": 9.993787515314267,
+        "latitude": 57.006305564033084,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1565bbf0-8844-4473-a75b-75e760c50700",
+        "longitude": 9.976443573832512,
+        "latitude": 57.00752048169372,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6b1fcc71-b508-4e43-82a4-df65bfe3c647",
+        "longitude": 9.994136095046999,
+        "latitude": 57.00854321108754,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "01e57603-d678-4b20-accc-211f5452d851",
+        "longitude": 9.96818471699953,
+        "latitude": 57.01741268453972,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "8f796a1a-397e-4883-9cae-3e44bac9d318",
+        "longitude": 9.967952164854916,
+        "latitude": 57.020001929816644,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "38f6392a-1544-4283-af58-5e8ae78ec0c1",
+        "longitude": 9.993297664860918,
+        "latitude": 57.006364272998375,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b4cdb708-8a91-4133-8aee-f907c3ab3e0f",
+        "longitude": 9.977033223401795,
+        "latitude": 56.98602191345765,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0cb79fc2-d6ec-49ff-84c8-5b9ec111c0bb",
+        "longitude": 9.993645005707425,
+        "latitude": 57.00631100986714,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3aaa88cd-19f5-44a3-b9b5-9fd54519048d",
+        "longitude": 9.976211301039998,
+        "latitude": 57.00719385329851,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9ba82808-895c-4bb6-ab2c-7d8bdaf15e11",
+        "longitude": 9.968179352581501,
+        "latitude": 57.01782572274909,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ab9a6173-0a71-425f-b831-7fbe86957a1e",
+        "longitude": 9.994256374530217,
+        "latitude": 57.00231786084978,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "aa9a04c0-af04-4578-810a-052bef03fa02",
+        "longitude": 9.976068770239962,
+        "latitude": 57.007207999476336,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9147aed6-f6af-4bfc-89ce-694e7e90a1f2",
+        "longitude": 9.989223302832482,
+        "latitude": 56.992724286875756,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6716b68b-40d2-43ed-aa9a-5d276bf69207",
+        "longitude": 9.99397439896827,
+        "latitude": 57.00603450682036,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e7f4c79d-0afe-465e-8866-5cabfcc8abae",
+        "longitude": 9.981653429567814,
+        "latitude": 56.98872442128101,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e90a2f56-6bdf-4878-9ae1-90b382e2fcfe",
+        "longitude": 9.994389243960692,
+        "latitude": 57.01551909571999,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7907ced7-90ed-4215-b37e-021b6672c4d9",
+        "longitude": 9.994721764670782,
+        "latitude": 57.019150976502125,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ea50507d-ca87-4853-a961-4f2138e15e3c",
+        "longitude": 9.976884185697793,
+        "latitude": 57.01255363105702,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3de98ba3-8b0b-4232-a519-d6dac8fa7916",
+        "longitude": 9.976816065609455,
+        "latitude": 57.009117913515105,
+        "sign_type": "c55:50",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "cf8c3c01-7d06-4aac-b51b-ce3c0e077ba7",
+        "longitude": 9.994657951065737,
+        "latitude": 57.01894255097873,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "64a1d591-ef17-4273-81a5-fd2912038c5d",
+        "longitude": 9.994639971653237,
+        "latitude": 56.996205855523925,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "012d8895-600f-4f2b-8e3a-5fcd54bc55d3",
+        "longitude": 9.994873006134217,
+        "latitude": 57.016966241945674,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a6560214-78bc-4863-be98-0767ece3df36",
+        "longitude": 9.968368245786879,
+        "latitude": 57.019489527324204,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3c1f455d-91aa-4706-972f-8d50ea92bcdc",
+        "longitude": 9.978011325001717,
+        "latitude": 57.012346707072574,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9c6e6522-95c7-49fe-a2ce-dc04964e93b5",
+        "longitude": 9.957876318092561,
+        "latitude": 57.028487122540916,
+        "sign_type": "e33.1",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "622c581f-5025-4f2c-a082-e745eaf4999c",
+        "longitude": 9.966645799577238,
+        "latitude": 57.01401165243199,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "644f299c-2e63-4925-9cca-9f6050257ec7",
+        "longitude": 9.99334100115029,
+        "latitude": 56.99795452113776,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7cc956ea-d4e1-471e-bc99-234986ae95c6",
+        "longitude": 9.968146432023996,
+        "latitude": 57.01923008752061,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c293bed5-20b5-4c6c-a601-27294286985a",
+        "longitude": 9.97710406780243,
+        "latitude": 57.0095604356357,
+        "sign_type": "c55:50",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "76642955-a5ae-48c8-8962-3fd653240977",
+        "longitude": 9.984111220862733,
+        "latitude": 56.99033284759515,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "794fe96c-9bff-43c9-9ad2-ca334116b119",
+        "longitude": 9.957876318092561,
+        "latitude": 57.02848712254093,
+        "sign_type": "e33.1",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c1eb5ff9-5057-4de9-afd1-7fd1adee6890",
+        "longitude": 9.967410637557956,
+        "latitude": 57.013253006114894,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "193b5eaa-13a2-423a-af3b-3873ac4610fe",
+        "longitude": 9.993733403923162,
+        "latitude": 56.99781219913566,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "eb3ee475-28fb-42c0-b4ae-76eb4232c79a",
+        "longitude": 9.968354952599766,
+        "latitude": 57.01923803320185,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "45ca35d4-f98e-4f41-b6f9-877baec002c9",
+        "longitude": 9.97807904127781,
+        "latitude": 57.012180443951934,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "d7499bbd-ae86-4401-836f-75b7c9e7cb96",
+        "longitude": 9.960183775618159,
+        "latitude": 57.02620053162299,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "751fa1dd-1aa3-4ba6-9e7f-8640c8baa385",
+        "longitude": 9.958379351622371,
+        "latitude": 57.027969740362636,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6bc4d64a-98a1-4379-9420-e7a1c9c98637",
+        "longitude": 9.976985044777393,
+        "latitude": 57.007500764392326,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "68c30faa-3b76-4488-b06d-410153b71bbb",
+        "longitude": 9.972273374539991,
+        "latitude": 57.01260985158056,
+        "sign_type": "e33.1",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a00176bf-f6a8-4113-9f01-f5dfb65f8cc3",
+        "longitude": 9.972273374539991,
+        "latitude": 57.01260985158056,
+        "sign_type": "e33.1",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "10bf40c9-c95b-4449-a2d9-69d0c13b18ab",
+        "longitude": 9.967873532305926,
+        "latitude": 57.02056028547248,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "30ba0548-9f68-4121-a0d9-2569ea2e325b",
+        "longitude": 9.977905329330452,
+        "latitude": 57.012186546018285,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ea7872b0-478d-4ec6-946e-9e6fbe874504",
+        "longitude": 9.967503021998159,
+        "latitude": 57.01329154945666,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "27d749de-1036-4440-a4ed-63f8ae7df010",
+        "longitude": 9.958379351622373,
+        "latitude": 57.02796974036266,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0510e1a2-e564-4c1e-8e3e-bfcf3c441689",
+        "longitude": 9.994673707511424,
+        "latitude": 57.01912395844464,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "12f8a138-37ae-4529-bc99-ebdffa521848",
+        "longitude": 9.994389243960692,
+        "latitude": 57.01551909571999,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1762b41e-859b-44fa-b286-b4d166d79ffd",
+        "longitude": 9.978076809270812,
+        "latitude": 57.01218165919208,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "807b4094-4337-4413-91d0-81b2e982c8d3",
+        "longitude": 9.95905432513294,
+        "latitude": 57.02725769170465,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "80e9542d-afe6-4ad5-be7d-446a5cc9d35f",
+        "longitude": 9.994348520874956,
+        "latitude": 57.01533370709705,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "77855a3b-3dd4-4287-bab2-c07721751320",
+        "longitude": 9.991266249669906,
+        "latitude": 56.997694988966785,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "87684813-8f4c-4f5c-b535-b41ab7bfc2f6",
+        "longitude": 9.977908677340954,
+        "latitude": 57.012185938398304,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "fe305583-9c7d-4ecd-aa7f-2915bebdbd2c",
+        "longitude": 9.979122810281387,
+        "latitude": 57.01255184029632,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2b3a937c-8684-4a22-b5ed-4af1063f1859",
+        "longitude": 9.994348520874956,
+        "latitude": 57.01533370709705,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "14006985-74b0-40c0-99aa-963de7d5b514",
+        "longitude": 9.991266249669906,
+        "latitude": 56.99769498896679,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6fa1622d-3f48-4e5e-8c13-efeeeb500d6e",
+        "longitude": 9.95905432513294,
+        "latitude": 57.027257691704655,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c396aad0-a294-4b34-8075-381d9c558073",
+        "longitude": 9.977252281123759,
+        "latitude": 56.98621373928865,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6a852535-d8a2-4da4-a297-dd145f8c89db",
+        "longitude": 9.991280079613595,
+        "latitude": 56.99761328703668,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9c05e647-08e3-4ffa-8837-3eb5bd21ae49",
+        "longitude": 9.994045657553135,
+        "latitude": 57.00433240148455,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "569287dc-75d9-4528-b6b4-acdf5ded3c13",
+        "longitude": 9.968049600720406,
+        "latitude": 57.0178306507071,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "09706388-ca12-4a92-ba67-d6fdeadd0b13",
+        "longitude": 9.99548451438054,
+        "latitude": 56.997880131711504,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7d157884-efa4-454c-993e-a262a63491e3",
+        "longitude": 9.976463362898187,
+        "latitude": 57.00787745163212,
+        "sign_type": "c55:50",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7e5dc2bb-501b-494f-a1d5-b985938c43ae",
+        "longitude": 9.994336173744186,
+        "latitude": 57.00545190139581,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a53d5495-cf45-4642-81ae-c2d67c3b94e3",
+        "longitude": 9.991280079613595,
+        "latitude": 56.99761328703668,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "764b44bb-acc6-4034-a9c1-74c2418dba73",
+        "longitude": 9.9881137637914,
+        "latitude": 57.0075396445597,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "87e1c58a-73df-44cb-b126-8961bcdbf64b",
+        "longitude": 9.978115260601044,
+        "latitude": 57.012350175405906,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "71f01593-de1d-4110-aaea-a8f0b0cd0b74",
+        "longitude": 9.994927771663312,
+        "latitude": 57.01838848794254,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b7dddd8a-411b-4dc3-ada9-dd72b47fcde3",
+        "longitude": 9.968408916557909,
+        "latitude": 57.01934272605111,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "596fb613-e6ad-44b6-9d81-3c0fc0247f9f",
+        "longitude": 9.965735127052614,
+        "latitude": 57.02161404150846,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7a3efca9-6f7d-4062-ae35-324754b9efe3",
+        "longitude": 9.977722987532616,
+        "latitude": 57.01251537722499,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "d3814574-dcb8-494d-8e03-f503ce978438",
+        "longitude": 9.994672550255343,
+        "latitude": 57.01665319527762,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "575ecc1b-3d93-425d-8743-6f78713d856e",
+        "longitude": 9.989971510473087,
+        "latitude": 56.99739968924763,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "983fb240-22e3-4c66-b39f-5bb08dff686f",
+        "longitude": 9.993757502997592,
+        "latitude": 57.00535582474035,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "5ed786d4-ead4-45bd-8f3d-1a15c0c79356",
+        "longitude": 9.99412893299557,
+        "latitude": 57.00586924227384,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0e7ef996-0697-472e-ab04-8f1661ad1a18",
+        "longitude": 9.977745786309242,
+        "latitude": 57.01242264524453,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7c1aab7d-8e5d-4c2e-a878-e03054ad280c",
+        "longitude": 9.994672550255343,
+        "latitude": 57.01665319527762,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9fd995ff-3a15-40d2-bc1f-251fc7ef6f54",
+        "longitude": 9.989858685200762,
+        "latitude": 56.997482956644994,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a982f884-f758-47b1-bfc7-8515a9d20a8a",
+        "longitude": 9.994087873726466,
+        "latitude": 57.0052273522448,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "245a8741-e922-43a2-bd82-b6a433b7b494",
+        "longitude": 9.983703722114937,
+        "latitude": 56.990120385039376,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0dc93f68-ab21-4e55-b87b-9e8c5348074e",
+        "longitude": 9.994079060540997,
+        "latitude": 57.01895530089786,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c420b2ba-b08d-40d1-b103-6869e7835f7b",
+        "longitude": 9.994657951065737,
+        "latitude": 57.01894255097873,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6431daa9-d0af-4f70-aacd-f1f46788c955",
+        "longitude": 9.993873517577036,
+        "latitude": 57.006146311461556,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "da943e51-85f8-4c58-ba33-9af2cca024ba",
+        "longitude": 9.977893307805061,
+        "latitude": 57.01264370476146,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "15699ace-a400-4332-a9f9-6ab69e38dc16",
+        "longitude": 9.9934514464966,
+        "latitude": 57.00635159616964,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1709cfe3-c2b1-4f26-8a4d-b935bdd26c39",
+        "longitude": 9.96050606576326,
+        "latitude": 57.02598116845047,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "318c3270-4510-4051-bd04-1bc6213dadb8",
+        "longitude": 9.994069773665705,
+        "latitude": 57.00550385065914,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6bb99a1b-607b-43ed-b7c3-aa3b1f0f1f32",
+        "longitude": 9.98805817332817,
+        "latitude": 56.997465899299826,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "686466ab-76fd-4832-98f0-0f7fbda7c472",
+        "longitude": 9.959986214026967,
+        "latitude": 57.026270089092726,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2d59f9cf-4f9b-48e7-b809-f5e26fbd4cca",
+        "longitude": 9.993345006316328,
+        "latitude": 56.99778582767336,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "094c1ffa-b196-4768-ad09-269a8a73c4f0",
+        "longitude": 9.978260327565991,
+        "latitude": 57.01250912385564,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b12705bc-cebf-48a2-b933-11fdcac4241d",
+        "longitude": 9.988113939321943,
+        "latitude": 57.007539644559714,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3ed4eea6-1fb6-4f52-908c-e692306e2516",
+        "longitude": 9.961825870447774,
+        "latitude": 57.02429201178548,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "78b1bb40-1326-4b08-80fa-3f4240d5b3b0",
+        "longitude": 9.99374969843121,
+        "latitude": 57.006247648173535,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "761c61df-ee1e-431a-b32a-f3b912f0e582",
+        "longitude": 9.987306268208322,
+        "latitude": 56.99707360718564,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7e6d6274-944e-481e-8988-1cc83bebaebd",
+        "longitude": 9.971722805907326,
+        "latitude": 57.01268987639408,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "2367480b-72c8-4de1-9a6e-629b45285eb6",
+        "longitude": 9.995014220455161,
+        "latitude": 57.00553668214239,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "48a088c7-daef-4cb7-8154-40c1e78ac01c",
+        "longitude": 9.976175342939507,
+        "latitude": 57.01261925962571,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0c3eafd4-8766-4585-833b-a7f38c0fc2dc",
+        "longitude": 9.99434618594547,
+        "latitude": 57.002605062620745,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "f0cbb107-ac28-4d48-8944-72af00c066a6",
+        "longitude": 9.964559376239777,
+        "latitude": 57.01366830120129,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "53b2c8d9-0ede-478a-9cec-40a35d3454a3",
+        "longitude": 9.978261731810324,
+        "latitude": 57.012577168666844,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "80a4fc9d-fdf2-4c9f-afb7-398d14b5a846",
+        "longitude": 9.968259710438181,
+        "latitude": 57.01920275469814,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c8c43418-0171-4bcc-a393-5285200adbfc",
+        "longitude": 9.96191493420331,
+        "latitude": 57.024478820976704,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "50708aa9-d8fc-434f-9e26-5f76120999a5",
+        "longitude": 9.993748294186874,
+        "latitude": 57.00624803051246,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "346c170b-7acc-4640-89f6-c9fc9594480b",
+        "longitude": 9.987306268208322,
+        "latitude": 56.99707360718564,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "35d3e60f-6f74-4aba-a99d-933b3d83c38a",
+        "longitude": 9.959986214026967,
+        "latitude": 57.026270089092726,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "d3d3cb49-bfe7-4803-945d-c8895a0fa6a3",
+        "longitude": 9.994031588057345,
+        "latitude": 57.00654201097716,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e5cec7f5-aeaa-4492-868b-cd7c554e928d",
+        "longitude": 9.993370678867176,
+        "latitude": 56.99779916039933,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "cdf9f8d4-0af0-4b32-8a33-a7e404be7d5d",
+        "longitude": 9.9931746354323,
+        "latitude": 56.998533773790264,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "f9377a08-de97-48db-bd7f-1414e83ef54b",
+        "longitude": 9.995014220455161,
+        "latitude": 57.00553668214239,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b3a5b69c-14b8-40e3-b4c0-d820ac601ad3",
+        "longitude": 9.99397439896827,
+        "latitude": 57.00603450682037,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b3f59296-c3a7-4471-b693-b8679f6d9f15",
+        "longitude": 9.961913848059952,
+        "latitude": 57.02447941214355,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "076c70c4-d736-41c5-ab3f-1a34b5045a68",
+        "longitude": 9.994057231838955,
+        "latitude": 57.005594614835665,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6ae62aee-6f39-4998-ac60-5b8d03a89d6f",
+        "longitude": 9.985509648943955,
+        "latitude": 56.9957783070301,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "0ec9d2b9-47f1-40d7-8868-59dafa56aa6d",
+        "longitude": 9.968699959533303,
+        "latitude": 57.01302522852645,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1a075857-fc0e-43e8-ab52-24e0b2f07f1c",
+        "longitude": 9.96763777035537,
+        "latitude": 57.020491423155136,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7d74cd0d-e2f3-4f02-9c94-fe84650afe6b",
+        "longitude": 9.968226291239262,
+        "latitude": 57.01757968905227,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6d7905ab-908e-453c-bd26-ff06c5728a03",
+        "longitude": 9.994094902114902,
+        "latitude": 57.00518724331578,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "b3ee86df-f651-4e6a-8ffc-bd8aac70d0f2",
+        "longitude": 9.968088010474004,
+        "latitude": 57.02000831373404,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "21d166bd-e2bc-4e1b-a07a-8b1d1663c152",
+        "longitude": 9.968146418935923,
+        "latitude": 57.019230267119056,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a5b638c7-5e36-47c9-88c2-66dd2dc1999c",
+        "longitude": 9.994899686776593,
+        "latitude": 57.01757321625455,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "25d5a7a9-c1fa-4b2e-9cde-351e56fbf625",
+        "longitude": 9.961825870447779,
+        "latitude": 57.02429201178548,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a112d857-2831-40cf-a33c-f241fad0d469",
+        "longitude": 9.993761707482912,
+        "latitude": 57.00554551754612,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c6192cfc-254e-4293-b930-163f704588fe",
+        "longitude": 9.9849678293405,
+        "latitude": 56.99543660713851,
+        "sign_type": "b11",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "602f2068-656f-48c6-9b67-5f5617aaaabe",
+        "longitude": 9.959599973290697,
+        "latitude": 57.02693610664976,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "7e3a8851-31be-44c4-a340-1a73bac0dfc8",
+        "longitude": 9.993400530670488,
+        "latitude": 56.99778517729636,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1612f761-8253-4059-b4d5-368a82cd752f",
+        "longitude": 9.9947150286465,
+        "latitude": 57.01757130514192,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "187c0dee-3958-4001-83a1-143476b7c891",
+        "longitude": 9.968354833430494,
+        "latitude": 57.01923687597267,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "211621c0-026c-418e-ba7d-3c96970c90ce",
+        "longitude": 9.99492777166331,
+        "latitude": 57.01838848794254,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "6031f23d-eee3-4aed-9ecd-d45f4be8d517",
+        "longitude": 9.983703722114937,
+        "latitude": 56.990120385039376,
+        "sign_type": "c55:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "e960a64c-54d3-4c75-994b-a43d3aa23537",
+        "longitude": 9.988080002367496,
+        "latitude": 57.00765174753553,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "9e6a2aea-ab6d-443a-8b6d-56aa41468de0",
+        "longitude": 9.96739748865366,
+        "latitude": 57.01503566359222,
+        "sign_type": "d15.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "fcc3f725-5c4b-49ed-9cbc-18cf4552c5a9",
+        "longitude": 9.97795677674881,
+        "latitude": 57.01254263657785,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "272e08f6-3149-491b-b293-a5ad9e63c17c",
+        "longitude": 9.967873532305926,
+        "latitude": 57.02056028547248,
+        "sign_type": "e56",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "eacf0c7b-7378-4a8b-8c5d-b6deae43fbe0",
+        "longitude": 9.959599973290695,
+        "latitude": 57.02693610664975,
+        "sign_type": "c61",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "3d905046-1535-436c-aec3-42f3d7b3461d",
+        "longitude": 9.978040329286788,
+        "latitude": 57.012539450959196,
+        "sign_type": "d11.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "280aef99-c066-483e-ae4b-d2ed98c663ea",
+        "longitude": 9.994047341430253,
+        "latitude": 57.00481216172627,
+        "sign_type": "n42.3",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "75cac9c7-7d27-4f95-92bc-9332bf24ef35",
+        "longitude": 9.994696773470132,
+        "latitude": 57.01696662417444,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "a11cf2d2-1793-4161-b1fc-c9e318aef152",
+        "longitude": 9.994873006134217,
+        "latitude": 57.016966241945674,
+        "sign_type": "c56:60",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ad09ee3b-ed72-43b8-8e0b-d0031b2105f2",
+        "longitude": 9.994233021778376,
+        "latitude": 57.01470834814166,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "cb238185-eeee-4a2a-986d-eda71d5bb599",
+        "longitude": 9.994400828976445,
+        "latitude": 57.01470796588969,
+        "sign_type": "c62",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "1295ea1c-b67c-4cd5-b40a-4443e4ca6f8f",
+        "longitude": 9.988080002367496,
+        "latitude": 57.00765174753553,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "bf9513a2-228b-4d19-8699-7abf317c99f1",
+        "longitude": 9.994899686776593,
+        "latitude": 57.01757321625455,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "ba502c80-f777-4886-aaad-47d91829483e",
+        "longitude": 9.9947150286465,
+        "latitude": 57.01757130514192,
+        "sign_type": "e55",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "24ccbc58-a38a-40f1-af56-c840a00e9e96",
+        "longitude": 9.960301951456518,
+        "latitude": 57.02625275469542,
+        "sign_type": "e33.1",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "32b788b9-6dd8-44e6-93fb-db7fc8696d6f",
+        "longitude": 9.960301951456517,
+        "latitude": 57.02625275469543,
+        "sign_type": "e33.1",
+        "sign_text": null,
+        "category": "main_sign_1"
+    },
+    {
+        "uuid": "c477065a-be7b-426c-bcf3-eb73701ec1f8",
+        "longitude": 9.977914302118238,
+        "latitude": 57.0121085853706,
+        "sign_type": "c55:50",
+        "sign_text": null,
+        "category": "main_sign_1"
+    }
+]
