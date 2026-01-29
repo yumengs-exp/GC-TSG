@@ -1,6 +1,6 @@
 # GC-TSG
 
-This repository provides the implementation of **GC-TSG**, a graph-based framework for traffic sign grouping and clustering.
+This repository provides the implementation of **GC-TSG**, Graph Contrastive Clustering for Traffic Sign Geolocalization
 
 ---
 
