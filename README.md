@@ -38,10 +38,11 @@ This repository provides the implementation of **GC-TSG**, a graph-based framewo
 ---
 
 ## Running GC-TSG
-
-### Entry Script
-
 Run the main pipeline with:
 
 ```bash
 python main_scc.py
+
+
+## Acknowledgements
+GoMapClustering: https://github.com/fromm1990/GomapClustering
